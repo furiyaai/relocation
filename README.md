@@ -3,5 +3,5 @@ Sorry, but the project has moved to a new site address. The project name has als
 
 # Furiya AI 
 New project name: **Furiya AI** <br>
-New project website address: ** [furiyaai.github.io](https://furiyaai.github.io/) [furiyaai.pp.ua](https://furiyaai.github.io/furiyaai.pp.ua) **
+New project website address: **[furiyaai.github.io](https://furiyaai.github.io/) [furiyaai.pp.ua](https://furiyaai.github.io/furiyaai.pp.ua)**
 
